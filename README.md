@@ -18,7 +18,7 @@ To add the following in this format and submit a pull request(request to merge a
 
 if you don't know how to use github edit this file by clicking on the pencil. and use [http://dillinger.io/](http://dillinger.io/) if you have trouble with markdown syntax.
 
-#### Your Name Here - City, State -
+#### Your Name Here - City, State
 ##### UNAVSA/UVSA/VSA Acronyms
 
   1. What do you love about technology
