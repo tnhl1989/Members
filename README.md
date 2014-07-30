@@ -18,13 +18,16 @@ To add the following in this format and submit a pull request(request to merge a
 
 if you don't know how to use github edit this file by clicking on the pencil. and use [http://dillinger.io/](http://dillinger.io/) if you have trouble with markdown syntax.
 
-### <Your Name Here> - <City, State> - UNAVSA/UVSA/VSA Acronyms
+### Your Name Here - City, State -
+#### UNAVSA/UVSA/VSA Acronyms
+
   1. What do you love about technology
   2. What are you looking for out of this group.
   3. You decide what you want to put in #3
----
 
-### Stephen Nguyen - San Francisco, CA - UNAVSA, MAUVSA, VCUVSA
-1. The ability to build and solve real lasting problems through engineering.
-2. Looking to connect with people who want to relocate to SF and want to learn more engineering skills.
-3. I made this group so we can foster more engineering and entrepreneurial talent in UNAVSA through networking and exchange of ideas. <3 UNAVSA and <3 technology
+### Stephen Nguyen - San Francisco, CA 
+#### UNAVSA, MAUVSA, VCUVSA
+
+  1. The ability to build and solve real lasting problems through engineering.
+  2. Looking to connect with people who want to relocate to SF and want to learn more engineering skills.
+  3. I made this group so we can foster more engineering and entrepreneurial talent in UNAVSA through networking and exchange of ideas. <3 UNAVSA and <3 technology
