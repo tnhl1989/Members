@@ -6,6 +6,7 @@ Members in order joined
 =======
 1. Stephen Nguyen
 2. Hop Hoang
+3. Tommy Tran
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -31,3 +32,10 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   1. The ability to build and solve real lasting problems through engineering.
   2. Looking to connect with people who want to relocate to SF and want to learn more engineering skills.
   3. I made this group so we can foster more engineering and entrepreneurial talent in UNAVSA through networking and exchange of ideas. <3 UNAVSA and <3 technology
+
+#### Tommy Tran - Houston, TX
+##### UNAVSA, UVSASouth, UHVSA
+
+  1. Just how it can help humanity and how it constantly evolves.
+  2. Learning valuble skills to enhance my knowledge about various subjects. :D
+  3. I cant wait to learn from you guys! :D
