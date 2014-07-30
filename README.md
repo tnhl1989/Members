@@ -6,6 +6,7 @@ Members in order joined
 =======
 1. Stephen Nguyen
 2. Hop Hoang
+3. Tony Lam
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -31,3 +32,11 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   1. The ability to build and solve real lasting problems through engineering.
   2. Looking to connect with people who want to relocate to SF and want to learn more engineering skills.
   3. I made this group so we can foster more engineering and entrepreneurial talent in UNAVSA through networking and exchange of ideas. <3 UNAVSA and <3 technology
+
+#### Tony Lam - Holyoke, MA
+##### UNAVSA, NEUVSA, IVSA, UMVSA
+
+  1. Constant changes to better humanity. 
+  2. Looking to connect with people to develop their skills and abilities.
+  3. I wish this group was created before so that we can help foster the develop of people interested in technology and design. 
+
