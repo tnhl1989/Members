@@ -1,6 +1,6 @@
 
 # [UNAVSA Tech Mafia](https://www.facebook.com/groups/609480592500450/)
-A UNAVSA members who embrace Technology & Entrepreneurship.
+UNAVSA members who embrace Technology & Entrepreneurship.
 
 Members in order joined
 =======
