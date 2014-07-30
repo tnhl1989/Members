@@ -5,7 +5,7 @@ UNAVSA members who embrace Technology & Entrepreneurship.
 Members in order joined
 =======
 1. Stephen Nguyen
-2. Hop Hoang
+2. Hop Alex Hoang
 3. Tommy Tran
 
 #### Rules of UNAVSA Tech Mafia
@@ -32,6 +32,13 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   1. The ability to build and solve real lasting problems through engineering.
   2. Looking to connect with people who want to relocate to SF and want to learn more engineering skills.
   3. I made this group so we can foster more engineering and entrepreneurial talent in UNAVSA through networking and exchange of ideas. <3 UNAVSA and <3 technology
+
+#### Hop Alex Hoang - San Francisco, CA 
+##### UNAVSA, NorCal UVSA, UCD VSA
+
+  1. Being able to build and create things that make an impact in our lives.
+  2. Looking to replace myself from the IT role in UNAVSA.
+  3. Like Stephen, I want UNAVSA to foster more engineering and entrepreneurial talent. I want to show our constituents that we have a lot to offer, starting with what I know and love doing.
 
 #### Tommy Tran - Houston, TX
 ##### UNAVSA, UVSASouth, UHVSA
