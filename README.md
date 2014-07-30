@@ -8,12 +8,12 @@ Members in order joined
 2. Hop Hoang
 
 #### Rules of UNAVSA Tech Mafia
-1. Get a Github Account.
-2. You must add to this Readme.
-3. In return you will add you as a contributor to this group
-4. Once added to group you are an equal contributor to ideas and changes to the direction of this group.
 
-#### edit yourself into this document (the hardest part)
+1. You must edit yourself into this Readme.
+2. In return we will add you as a contributor to this group and let you join the facebook group.
+3. Once added to group you are an equal contributor to ideas and changes to the direction of this group.
+
+#### #1 Edit yourself into this document (the hardest part)
 To add the following in this format and submit a pull request(request to merge a change into this document). 
 
 if you don't know how to use github edit this file by clicking on the pencil. and use [http://dillinger.io/](http://dillinger.io/) if you have trouble with markdown syntax.
